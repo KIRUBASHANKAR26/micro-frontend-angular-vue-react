@@ -8,6 +8,15 @@
 - This template will generate an **index.html** which is our staring point
 - It already comes with supporting featues for all broswers
 
+To Start the application in your local
+
+```sh
+npm install 
+
+npm start
+
+```
+
 ### Import-map 🧠
 
 - This is the core concepts that is used it import-map (Import the npm package but the (es6 module imports)
